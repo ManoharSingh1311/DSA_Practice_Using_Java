@@ -1,5 +1,5 @@
 import java.util.*;
-
+/*Manohar Singh*/
 public class CheckArmstrong {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
@@ -40,3 +40,4 @@ public class CheckArmstrong {
         return count;
     }
 }
+

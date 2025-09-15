@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//Manohar Singh
 
 public class CheckSorted {
     public static boolean isSorted(int[] arr) {
@@ -16,3 +17,4 @@ public class CheckSorted {
         System.out.println(isSorted(arr) ? "YES" : "NO");
     }
 }
+
